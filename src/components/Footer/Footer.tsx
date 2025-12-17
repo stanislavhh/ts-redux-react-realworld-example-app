@@ -1,4 +1,5 @@
 export function Footer() {
+  console.log({ sonartoken: 'sonar.token=ee9cad4177406bb7ce1ef567d5aca29edf6b86ef'})
   return (
     <footer>
       <div className='container'>
